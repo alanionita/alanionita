@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Alan 👋
+---
 
-<!--
-**alanionita/alanionita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Fullstack Developer based in ☀️ Manchester, 🇬🇧.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently working fulltime with the fab team at **Mission Labs**
+- 🌞 During the day I use: MacOS, React, AWS services, serverless, Typescript, Figma
+- 🌑 During the night I use: Linux, Python, Docker, NextJS, Gatsby, Jupyter Notebooks
+- 📚 Studying: **AWS services, machine learning, maths, networking**
+- 🌱 Interests: electronics, meditation, reading (#52books), sport: 👟, 🚴‍♂️, 🏊‍♂️, 🧗‍♂️
+- 🖖👨‍💻 Working on tech for good through teaching, mentoring, and positive AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/alanionita">LinkedIn</a>
+
+
+---
