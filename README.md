@@ -16,17 +16,16 @@
 ---
 ### Now 🕰
 
-> 28/07/2020 
-
+> 21/10/2020 
+- Studying for AWS Associate Solutions Architect certification
 - Learning Python through https://cleverprogrammer.teachable.com/p/learn-python
 - Tinkering with a Raspberry Pi 4 to harden the OS and orchestrate plays via Ansible
-- Getting started with gynamstic ring workouts
-- Developing a people counter app using machine learning, OpenVINO, OpenCV, MQTT, ffmpeg, Docker
-- Reading stats: 27/52 this year (I count audiobooks too, don't judge me)
+- Learning CCNA basics from [NetworkChuck](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+- Reading stats: 40/52
 - Currently reading: 
-    - [Philosophy for Life](https://www.goodreads.com/book/show/13629522-philosophy-for-life) 
+    - [Reality is not what it seems - Quantum Mechanics](https://www.goodreads.com/book/show/29767627-reality-is-not-what-it-seems?from_search=true&from_srp=true&qid=HPgOoOWtqf&rank=1) 
     - [Python Tricks](https://www.goodreads.com/book/show/36555966-python-tricks?from_search=true&from_srp=true&qid=vpz7mWczmZ&rank=1)
-    - [The Tattooist of Auschwitz](https://www.goodreads.com/book/show/38359036-the-tattooist-of-auschwitz?from_search=true&from_srp=true&qid=2In4maY9E8&rank=1)
-    - [The Familiars](https://www.goodreads.com/book/show/39835415-the-familiars?ac=1&from_search=true&qid=E2hljdo4dW&rank=1)
+    - [Cult of the Dead Cow 🎧](https://www.goodreads.com/book/show/42283862-cult-of-the-dead-cow?ac=1&from_search=true&qid=hak2WLKzH1&rank=1)
+    - [The Poetry Pharmacy 🎧](https://www.goodreads.com/book/show/34726141-the-poetry-pharmacy?ac=1&from_search=true&qid=9g3JnsaHNd&rank=1)
 
 ---
